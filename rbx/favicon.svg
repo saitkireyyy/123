@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Brainrot 3D Template icon">
+  <rect width="64" height="64" rx="12" fill="#87ceeb"/>
+  <path d="M10 44h44v8H10z" fill="#4caf50"/>
+  <path d="M24 26h16v18H24z" fill="#999"/>
+  <path d="M26 14h12v12H26z" fill="#aaa"/>
+  <path d="M16 28h8v16h-8zM40 28h8v16h-8z" fill="#888"/>
+  <path d="M24 44h6v10h-6zM34 44h6v10h-6z" fill="#777"/>
+  <path d="M44 16h8v8h-8z" fill="#ff4444"/>
+</svg>

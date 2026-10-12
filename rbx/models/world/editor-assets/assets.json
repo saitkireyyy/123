@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {
+      "id": "custom/column",
+      "label": "Column",
+      "category": "decoration",
+      "url": "models/world/editor-assets/models/column.glb",
+      "textureUrl": "models/world/editor-assets/textures/colormap.png",
+      "fallbackSize": [3, 5, 3],
+      "fallbackColor": "#8b939c"
+    }
+  ]
+}
